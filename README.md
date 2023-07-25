@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I&apos;m a software engineer, proficient in using Android, learning to make cross-platform apps.<br />
+I&apos;ve been studying Android app development using kotlin, and currently studying cross-platform using Flutter.
+
 <!--
 **sspzoa/sspzoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

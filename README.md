@@ -10,4 +10,4 @@ Mobile & Frontend Engineer
 
 </div>
 
-[portfolio]: https://sspzoa.io
+[portfolio]: https://portfolio.sspzoa.io

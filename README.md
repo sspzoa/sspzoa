@@ -3,6 +3,6 @@
     <p align="center">
         <strong>I'm Seungpyo Suh</strong>
         <br />
-        <span>Android Engineer</span>
+        <span>Android Developer</span>
     </p>
 </p>

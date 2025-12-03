@@ -3,6 +3,6 @@
     <p align="center">
         <strong>I'm Seungpyo Suh</strong>
         <br />
-        <span>Full-Stack Developer</span>
+        <span>Mobile & Frontend Engineer</span>
     </p>
 </p>

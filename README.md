@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/sspzoa/portfolio-v7/refs/heads/main/public/images/sspzoa_logo.png" alt="sspzoa" width="120" />
 </p>
 
-<h1 align="center">Seungpyo Suh</h1>
+<p align="center">
+  <strong>Seungpyo Suh</strong>
+</p>
 
 <p align="center">
   Product Engineer · Seoul
@@ -14,9 +16,7 @@
   <a href="https://github.com/horang-corp">@horang-corp</a>
 </p>
 
----
-
-Building products end-to-end — from interface to infrastructure.
-
-Currently at **[horang](https://github.com/horang-corp)**.  
-Studied at Dongguk University · Korea Digital Media High School.
+<p align="center">
+  Building products end-to-end — from interface to infrastructure.<br />
+  Currently at <strong><a href="https://github.com/horang-corp">horang</a></strong>.
+</p>

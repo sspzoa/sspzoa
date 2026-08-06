@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Building products end-to-end — from interface to infrastructure.<br />
+  Building products end-to-end — from interface to infrastructure.<br /><br />
   Currently at <strong><a href="https://github.com/horang-corp">horang</a></strong>.<br />
   Dongguk University · Korea Digital Media High School
 </p>

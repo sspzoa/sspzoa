@@ -14,8 +14,6 @@
   <a href="https://github.com/horang-corp">@horang-corp</a>
 </p>
 
----
-
 Building products end-to-end — from interface to infrastructure.
 
 Currently at **[horang](https://github.com/horang-corp)**.  
